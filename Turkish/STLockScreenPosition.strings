@@ -1,29 +1,26 @@
 // tr
 
-"LOCKSCREEN_POSITION" = "Lockscreen position";
-"HORIZONTAL_POSITION" = "Horizontal position";
+"LOCKSCREEN_POSITION" = "Kilit ekraný pozisyonu";
+"HORIZONTAL_POSITION" = "Yatay pozisyon";
 
 
-"LEFT" = "Left";
+"LEFT" = "Sol";
 
-"RIGHT" = "Right";
-"MIDDLE" = "Middle";
-"CUSTOM" = "Custom";
+"RIGHT" = "Sað";
+"MIDDLE" = "Orta";
+"CUSTOM" = "Özel";
 
-"VERTICAL_POSITION" = "Vertical position";
-"TOP" = "Top";
-"UNDER_CLOCK" = "Under clock";
-"BOTTOM" = "Bottom";
-"SPECIFY_X_VALUE" = "Specify X value:";
+"VERTICAL_POSITION" = "Dikey pozisyon";
+"TOP" = "Üst";
+"UNDER_CLOCK" = "Saatin altýnda";
+"BOTTOM" = "Alt";
+"SPECIFY_X_VALUE" = "Özel X deðeri:";
 
-"SPECIFY_Y_VALUE" = "Specify Y value:";
-"FROM_LEFT" = "From Left";
-"FROM_RIGHT" = "From Right";
+"SPECIFY_Y_VALUE" = "Özel Y deðeri:";
+"FROM_LEFT" = "Soldan";
+"FROM_RIGHT" = "Saðdan";
 
-"FROM_TOP" = "From Top";
-"FROM_BOTTOM" = "From Buttom";
+"FROM_TOP" = "Üstten";
+"FROM_BOTTOM" = "Alttan";
 
-
-
-"CLOCK_APP" = "CLOCK APP";
-
+"CLOCK_APP" = "Saat Programý";
